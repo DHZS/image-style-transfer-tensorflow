@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+*.pyc
+vgg19.npy
